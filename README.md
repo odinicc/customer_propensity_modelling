@@ -1,1 +1,1 @@
-# customer_propensity_modelling
+# Customer Propensity Modelling
