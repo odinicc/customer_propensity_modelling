@@ -3,3 +3,7 @@ There are many visitors to websites every day, some purchase but many do not. Th
 The questions are:
 Which of these interactiuons effect a users likelihood to purchase?
 Can we score visitors from yesterday who did not purchase, to see who the most valueable prospects are?
+
+This heatmap shows the correlation between the columns in the dataset and we are going to pay more attention to the ordered column and its correlation with other columns
+
+![heatmap](https://user-images.githubusercontent.com/88746246/148622547-3d50012f-ee97-459d-83e7-7f3ea7296997.png)
